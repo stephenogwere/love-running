@@ -217,7 +217,7 @@ main {
     /* Enlarge main element to push footer down*/
     flex: 1 0 auto;
     /* Add margin at the top to prevent content from being covered by the header */
-    margin-top: 47x;
+    margin-top: 47px;
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
@@ -314,7 +314,7 @@ main {
     /* Hero */
     #cover-text {
         width: 300px;
-        right: 50px
+        right: 50px;
     }
 
     /* Reasons section */
